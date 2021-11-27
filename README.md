@@ -1,5 +1,5 @@
 # Print Odd Even Numbers
-
+Print the first N natural numbers using 2 Threads, in such a way that odd numbers will be printed by Odd Thread and even numbers will be printed by Even Thread.
 
 ## Implementation : wait() and notifyAll()
 ```java
